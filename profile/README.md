@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://theorvane.tech">
+    <img src="./assets/theorvane-organization-banner.png" alt="Theorvane — open-source, community-driven developer tools" width="100%" />
+  </a>
+</p>
+
 <div align="center">
   <a href="https://theorvane.tech">
     <img src="https://avatars.githubusercontent.com/u/307432618?v=4" alt="Theorvane" width="120" height="120" />
