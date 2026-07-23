@@ -24,6 +24,7 @@ Theorvane builds focused, verifiable tools for developers and AI-native systems.
 | --- | --- | --- |
 | [**TypeMCP**](https://github.com/Theorvane/type-mcp) | Decorator-first TypeScript declarations for Model Context Protocol (MCP) servers. | [`type-mcp@0.1.0`](https://www.npmjs.com/package/type-mcp) publishes standard decorators and immutable metadata reads. Runtime compilation, transports, and integrations are not part of that published package release. |
 | [**website**](https://github.com/Theorvane/website) | The public sites for [Theorvane](https://theorvane.tech) and [TypeMCP](https://typemcp.theorvane.tech). | Public Next.js monorepo. |
+| [**OpenVideo**](https://github.com/Theorvane/openvideo) | A local-first desktop studio for recording a selected window, organizing media, editing a timeline, and exporting MP4 video. | Public Electron app in active MVP development. Runs from source; packaged installers and auto-updates are not yet available. Visit [openvideo.theorvane.tech](https://openvideo.theorvane.tech). |
 | [**type-mcp-api-agent-skill**](https://github.com/Theorvane/type-mcp-api-agent-skill) | Hermes orchestration skill and deterministic CLI workspace for API-to-TypeMCP workflows. | Local OpenAPI/Swagger inspection is implemented; remote intake, generation, and the CLI package publication remain intentionally unshipped. |
 
 ## Open source, with clear boundaries
